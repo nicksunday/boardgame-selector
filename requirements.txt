@@ -2,3 +2,5 @@
 # package>=version
 boardgamegeek2==1.0.1
 Flask==1.1.2
+requests==2.3.0
+requests_cache==0.4.13
