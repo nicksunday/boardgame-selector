@@ -1,0 +1,4 @@
+# Function dependencies, for example:
+# package>=version
+boardgamegeek2==1.0.1
+Flask==1.1.2
